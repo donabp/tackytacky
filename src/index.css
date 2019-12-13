@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background: url('https://image.shutterstock.com/image-vector/ugly-jumper-pattern-christmas-tree-600w-656605819.jpg');
+    background-repeat: repeat;
+    width: 100%;
+    height: 100;
+   display: compact;
+    font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1, h2{
+    color: red;
+}
+
+#santa{
+    background: url('https://gph.is/1Tw4EQj'); 
+    /* background-repeat: repeat; */
+    width: 100%;
+    margin: 0;
+    height: 30%;
+    widows: 20%;
+    align-content: center;
+    margin-left: 35%;
+    margin-top: 11%;
+    overflow: visible;
+    height: 100;
+   display: compact;
+    font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+audio { display:none;}
+
+
+
+
+
