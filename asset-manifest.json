@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tackytacky/static/css/main.36e8063c.chunk.css",
+    "main.js": "/tackytacky/static/js/main.d6c653d1.chunk.js",
+    "main.js.map": "/tackytacky/static/js/main.d6c653d1.chunk.js.map",
+    "runtime-main.js": "/tackytacky/static/js/runtime-main.e70cff28.js",
+    "runtime-main.js.map": "/tackytacky/static/js/runtime-main.e70cff28.js.map",
+    "static/js/2.6d1731aa.chunk.js": "/tackytacky/static/js/2.6d1731aa.chunk.js",
+    "static/js/2.6d1731aa.chunk.js.map": "/tackytacky/static/js/2.6d1731aa.chunk.js.map",
+    "index.html": "/tackytacky/index.html",
+    "precache-manifest.07fedd4b16a4102565989afc7a431324.js": "/tackytacky/precache-manifest.07fedd4b16a4102565989afc7a431324.js",
+    "service-worker.js": "/tackytacky/service-worker.js",
+    "static/css/main.36e8063c.chunk.css.map": "/tackytacky/static/css/main.36e8063c.chunk.css.map",
+    "static/js/2.6d1731aa.chunk.js.LICENSE": "/tackytacky/static/js/2.6d1731aa.chunk.js.LICENSE",
+    "static/media/countDown.mp4": "/tackytacky/static/media/countDown.19f84676.mp4",
+    "static/media/feliz3.mp3": "/tackytacky/static/media/feliz3.de9bdd02.mp3",
+    "static/media/pic1.jpg": "/tackytacky/static/media/pic1.c4ce9413.jpg",
+    "static/media/snow.mp3": "/tackytacky/static/media/snow.4999f43a.mp3",
+    "static/media/tacky.mp4": "/tackytacky/static/media/tacky.01f4c2c7.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e70cff28.js",
+    "static/js/2.6d1731aa.chunk.js",
+    "static/css/main.36e8063c.chunk.css",
+    "static/js/main.d6c653d1.chunk.js"
+  ]
+}
